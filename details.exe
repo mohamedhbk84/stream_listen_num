@@ -1,0 +1,10 @@
+this is small task
+
+inside main
+1- Create a List containing random numbers consisting of positive and negative and convert all negative numbers into positive
+2- Get two numbers from List whose sum equals 12 using method
+
+screen MyHomePage
+1- Create a Stream and listen to him while he is sending data and sending data to him
+2- Make a Timer every 10 seconds, it sends a number in the List, and when the List reaches the number of numbers in it, it reaches 10, it stops the Timer
+3- Create a button in the ListView with the name Test or any word inside it, and let the button take the size of the word inside it without controlling the size of the button
